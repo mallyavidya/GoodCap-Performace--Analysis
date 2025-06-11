@@ -104,7 +104,7 @@ The Good Cabs dashboard empowered leadership to make **data-driven operational a
 
 ##  View the Dashboard
 
-**[ Click here to view the full Power BI Dashboard](#)**(https://app.powerbi.com/view?r=eyJrIjoiNWM1ZWJhMDItYzQ2Ni00OTcwLWI5NzItNmM1Y2IzOGM3M2ZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
+**[ Click here to view the full Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM1ZWJhMDItYzQ2Ni00OTcwLWI5NzItNmM1Y2IzOGM3M2ZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
 
 Created by ,
 ### *Vidyalaxmi Mallya*
