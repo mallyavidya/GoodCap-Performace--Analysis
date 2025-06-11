@@ -10,7 +10,7 @@
 ---
 
 ##  Project Overview
-![Home Dashboard Preview](Home_dashboard_png) 
+![Home Dashboard Preview](Home_dashboard.png) 
 
 ###  Background  
 Good Cabs, a fast-growing urban mobility service provider, needed insights into its trip volume, passenger satisfaction, and city-level performance. As the Data Analyst on the team, I developed a comprehensive Power BI dashboard to help stakeholders monitor performance, identify underperforming regions, and improve customer retention.
